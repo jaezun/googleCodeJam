@@ -8,7 +8,7 @@ int main()
 	ifstream	infile;
 	ofstream	outfile;
 	
-	infile.open("A-large.in");
+	infile.open("A.in");
 	outfile.open("A.out");
 
 	vector<int>	v;
